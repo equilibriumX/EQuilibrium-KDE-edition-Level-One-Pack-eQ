@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Name=EQuilibrium KDE edition LO
+X-KDE-PluginInfo-Author=Zlatko Barnak
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=equilibrium@barnak.co.rs
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=EQuilibrium KDE edition LO
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=lt-stand.com
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1179708,kns://aurorae.knsrc/api.kde-look.org/1186455,kns://wallpaper.knsrc/api.kde-look.org/1176074,kns://plasmoids.knsrc/api.kde-look.org/998910
+
